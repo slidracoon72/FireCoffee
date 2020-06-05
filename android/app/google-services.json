@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170252390640",
+    "firebase_url": "https://fire-coffee-3518b.firebaseio.com",
+    "project_id": "fire-coffee-3518b",
+    "storage_bucket": "fire-coffee-3518b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170252390640:android:d9ac9567268747e5af7235",
+        "android_client_info": {
+          "package_name": "com.example.firecoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170252390640-c7ug4jeus1o9aobu33s0uhvh8ufrr6v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4AYriCENr1q8_VaAU2qa_D-rCxtzXvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170252390640-c7ug4jeus1o9aobu33s0uhvh8ufrr6v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
