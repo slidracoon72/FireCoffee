@@ -1,6 +1,6 @@
-# FireCoffee
+# FireCoffee🔥
 
-A new Flutter application.
+A Flutter application for the ☕Coffee Lovers❤️
 
 ## Flutter Resources
 
