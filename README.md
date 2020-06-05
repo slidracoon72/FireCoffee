@@ -1,4 +1,4 @@
-# firecoffee
+# FireCoffee
 
 A new Flutter application.
 
